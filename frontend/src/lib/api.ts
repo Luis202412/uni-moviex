@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:3001/api';
+const API_BASE = 'https://uni-moviex.onrender.com/api';
 
 export interface Genero {
   id: number;
